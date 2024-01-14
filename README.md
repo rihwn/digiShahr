@@ -1,2 +1,2 @@
 # digiShahr
-index
+main page
